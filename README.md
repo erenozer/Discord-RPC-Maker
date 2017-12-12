@@ -33,13 +33,14 @@ https://notepad-plus-plus.org/download/
 
 9- Yazıları düzenlemek için "ayarlar.json" dosyasını açın.
 
-10- Orda bulunan yazıların anlamları:
- - "mesaj1": ilk satırda yazacak olan mesaj.
- - "mesaj2": ikinci satırda yazacak olan mesaj.
- - "resimad1": large olarak yüklediğimiz fotoğrafa koyduğumuz ad.
- - "resimad2": small olarak yüklediğimiz fotoğrafa koyduğumuz ad.
- - "resimyazi1": large (büyük) resime imleç geldiğinde yazacak olan mesaj.
- - "resimyazi2": small (küçük) resime imleç geldiğinde yazacak olan mesaj.
- - "appid": oluşturduğumuz application'un ID'si.
+10 - Son olarak onları değiştirip kaydettikten sonra "baslat.bat" dosyasına çift tıklayın ve çalıştırın.
 
-11 - Son olarak onları değiştirip kaydettikten sonra "baslat.bat" dosyasına çift tıklayın ve çalıştırın.
+# config.json'da Bulunan Yazıların Anlamları
+- "AppID": oluşturduğumuz application'un ID'si.
+ - "durum": ilk satırda yazacak olan mesaj.
+ - "aciklama": ikinci satırda yazacak olan mesaj.
+ - "buyukResimAd": large (büyük) olarak yüklediğimiz fotoğrafa koyduğumuz ad.
+ - "kucukResimAd": small (küçük) olarak yüklediğimiz fotoğrafa koyduğumuz ad.
+ - "buyukResimYazi": large (büyük) resime imleç geldiğinde yazacak olan mesaj.
+ - "kucukResimYazi": small (küçük) resime imleç geldiğinde yazacak olan mesaj.
+ 
