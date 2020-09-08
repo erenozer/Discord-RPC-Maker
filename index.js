@@ -21,6 +21,6 @@ client.on('ready', () => {
   });
 });
 
-client.login(config.AppID).catch((error) => {
+client.login({ clientId: config.AppID }).catch((error) => {
   throw error.message;
 });

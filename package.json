@@ -1,0 +1,23 @@
+{
+  "name": "discord-rpc-maker",
+  "version": "1.0.0",
+  "description": "https://discord.gg/U5v2csS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erenozer/Discord-RPC-Maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erenozer/Discord-RPC-Maker/issues"
+  },
+  "homepage": "https://github.com/erenozer/Discord-RPC-Maker#readme",
+  "dependencies": {
+    "discord-rpc": "^3.1.3"
+  }
+}
